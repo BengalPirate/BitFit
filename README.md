@@ -31,13 +31,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
-<iframe src="https://jumpshare.com/embed/zuZs9TQQQXtRdP0GF17O.gif" frameborder="0" width="640" height="1346" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<a href="https://www.loom.com/share/b0e63c4237c2401e9076c665a92dd9e7">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b0e63c4237c2401e9076c665a92dd9e7-with-play.gif">
+</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
 
-GIF created with [Kap](https://getkap.co/) for macOS
+GIF created with Loom
 
 
 ## License
