@@ -38,7 +38,7 @@ Here's a walkthrough of implemented user stories:
 <!-- Replace this with whatever GIF tool you used! -->
 
 
-GIF created with Loom
+GIF created with Loom as the Gif file was too large for Imgur and Giphy. Please click on the video snippet to see the entire application running as the video shown in this readme file is cut off. 
 
 
 ## License
